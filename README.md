@@ -3,7 +3,7 @@ C++ ile basit quiz oyunu yapımı.
 
 => www.zyrasoftware.com.tr
 
-=> (İnstagram İçin Tıkla)[https://www.instagram.com/zyrasoftware/]
+=> https://www.instagram.com/zyrasoftware/
 
 # C++ Nedir?
  **C++ programlama dili oldukça güçlü ve geniş bir kullanım alanına sahip. c++ ile yapılabilecek şeyler**
